@@ -1,0 +1,12 @@
+/*
+  CodeSearch default settings
+  Do not change this file; change your user settings file instead
+  */
+{
+  /* path to cindex executable */
+  "path_cindex": "C:\\Users\\metaflow\\etc\\go\\bin\\cindex.exe",
+   // "path_cindex": "/c/Users/metaflow/etc/go/bin/cindex.exe",
+  /* path to csearch executable */
+  // "path_csearch": "csearch",
+  "path_csearch": "C:\\Users\\metaflow\\etc\\go\\bin\\csearch.exe",
+}
