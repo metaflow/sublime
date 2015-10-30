@@ -22,15 +22,23 @@
 	"font_size": 14.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Pretty JSON",
 		"Vintage",
-		"X86 and X86_64 assembly"
+		"X86 and X86_64 assembly",
+		"YetAnotherCodeSearch"
+	],
+	"index_exclude_patterns":
+	[
+		"C:\\Users\\metaflow\\browser\\src\\out*",
+		"*.log"
 	],
 	"line_numbers": false,
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
+	"remember_open_files": true,
 	"reveal-on-activate": true,
 	"rulers":
 	[

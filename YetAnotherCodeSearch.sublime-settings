@@ -1,0 +1,9 @@
+// This file is not meant for editing. It will be overwritten.
+// Save your customizations to Packages/User/YetAnotherCodeSearch.sublime-settings instead.
+{
+  "path_cindex": "C:\\Users\\metaflow\\etc\\go\\bin\\cindex.exe",
+   // "path_cindex": "/c/Users/metaflow/etc/go/bin/cindex.exe",
+  /* path to csearch executable */
+  // "path_csearch": "csearch",
+  "path_csearch": "C:\\Users\\metaflow\\etc\\go\\bin\\csearch.exe",
+}
