@@ -1,4 +1,5 @@
 {
+	"auto_complete": true,
 	"caret_style": "solid",
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"draw_white_space": "all",
@@ -19,20 +20,18 @@
 		"env3"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 14.0,
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 15.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Pretty JSON",
-		"Vintage",
-		"X86 and X86_64 assembly"
-	],
-	"index_exclude_patterns":
-	[
-		"C:\\Users\\metaflow\\browser\\src\\out*",
-		"*.log"
+		"Vintage"
 	],
 	"line_numbers": false,
 	"line_padding_bottom": 0,
@@ -52,5 +51,5 @@
 	"trim_trailing_white_space_on_save": false,
 	"wide_caret": true,
 	"word_wrap": true,
-	"wrap_width": 80
+	"wrap_width": 81
 }

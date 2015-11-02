@@ -7,7 +7,7 @@
  [
    {
      "name": "Run",
-     "cmd":["bash", "-c", "g++ -std=c++0x '${file}' -o '${file_path}/${file_base_name}' && /Users/metaflow/bin/test_solution ${file_path} ${file_base_name}"]
+     "cmd":["bash", "-c", "g++ -std=c++0x '${file}' -o '${file_path}/${file_base_name}' && $HOME/github/setup/test.sh ${file_path} ${file_base_name}"]
    }
  ]
 }

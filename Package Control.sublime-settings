@@ -6,11 +6,13 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
-		"Brackets Color Scheme",
 		"Case Conversion",
 		"CodeSearch",
+		"CTags",
+		"Indent XML",
 		"Package Control",
 		"SideBarEnhancements",
+		"SyncedSideBar",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]
