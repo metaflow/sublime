@@ -93,13 +93,14 @@ struct bigint {
     return lhs;
   }
   bigint& operator *= (const bigint& rhs) {
-    bigint c = *this;
-    buckets.clear();
-    for (size_t i = 0; i < rhs.buckets.size(); i++) {
-      *this += (c * rhs.buckets[i]);
-      normalize();
-      c.buckets.insert(c.buckets.begin(), 0);
+    bigint a;
+    bigint m(*this);
+    for (int i = 0; i < b.buckets.size(); i++) {
+      a += (m * b.buckets[i]);
+      a.normalize();
+      m.buckets.insert(m.buckets.begin(), 0); // * 10
     }
+    swap(a, *this);
     return *this;
   }
 };

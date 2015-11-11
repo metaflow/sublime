@@ -31,7 +31,10 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"CodeSearch",
+		"Pretty JSON",
+		"X86 and X86_64 assembly"
 	],
 	"line_numbers": false,
 	"line_padding_bottom": 0,
@@ -40,7 +43,7 @@
 	"reveal-on-activate": true,
 	"rulers":
 	[
-		81
+		80
 	],
 	"scroll_past_end": false,
 	"show_full_path": true,
