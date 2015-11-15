@@ -1,5 +1,5 @@
 {
- "cmd": ["g++", "-std=c++11", "${file}", "-Wall", "-o", "${file_path}/${file_base_name}"],
+ "cmd": ["g++", "-std=c++11", "${file}", "-Wall", "-lpthread", "-pthread", "-g", "-o" , "${file_path}/${file_base_name}"],
  "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
  "working_dir": "${file_path}",
  "selector": "source.c, source.c++",
@@ -7,7 +7,7 @@
  [
    {
      "name": "Run",
-     "cmd":["bash", "-c", "g++ -std=c++0x '${file}' -o '${file_path}/${file_base_name}' && $HOME/github/setup/test.sh ${file_path} ${file_base_name}"]
+     "cmd":["bash", "-c", "g++ -Wall -lpthread -pthread -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE '${file}' -o '${file_path}/${file_base_name}' && $HOME/github/setup/test.sh ${file_path} ${file_base_name}"]
    }
  ]
 }

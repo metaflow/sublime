@@ -4,7 +4,6 @@
 		"c",
 		"h",
 		"cpp",
-		"cc",
 		"cxx",
 		"c++",
 		"h",
@@ -12,9 +11,6 @@
 		"hxx",
 		"h++",
 		"inl",
-		"ipp",
-		"cc"
-	],
-	"tab_size": 2,
-	"trim_trailing_white_space_on_save": true
+		"ipp"
+	]
 }

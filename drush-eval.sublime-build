@@ -1,0 +1,3 @@
+{
+    "cmd": ["drush", "php-script", "${file}", "--root=${project_path}"]
+}

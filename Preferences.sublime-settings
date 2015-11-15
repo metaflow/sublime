@@ -25,16 +25,24 @@
 		"subpixel_antialias",
 		"no_bold"
 	],
-	"font_size": 15.0,
+	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage",
+		"C++ Starting Kit",
+		"GitGutter",
+		"Highlight Build Errors",
 		"CodeSearch",
 		"Pretty JSON",
-		"X86 and X86_64 assembly"
+		"X86 and X86_64 assembly",
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*.o"
 	],
 	"line_numbers": false,
 	"line_padding_bottom": 0,
