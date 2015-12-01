@@ -31,18 +31,10 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"C++ Starting Kit",
-		"GitGutter",
-		"Highlight Build Errors",
+		"Vintage",
 		"CodeSearch",
 		"Pretty JSON",
-		"X86 and X86_64 assembly",
-		"Vintage"
-	],
-	"index_exclude_patterns":
-	[
-		"*.log",
-		"*.o"
+		"X86 and X86_64 assembly"
 	],
 	"line_numbers": false,
 	"line_padding_bottom": 0,
