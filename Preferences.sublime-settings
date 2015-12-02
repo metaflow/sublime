@@ -31,11 +31,12 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"CodeSearch",
 		"Pretty JSON",
+		"Vintage",
 		"X86 and X86_64 assembly"
 	],
+	"index_files": false,
 	"line_numbers": false,
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
