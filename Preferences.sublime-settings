@@ -32,6 +32,8 @@
 	"ignored_packages":
 	[
 		"CodeSearch",
+		"GitGutter",
+		"Highlight Build Errors",
 		"Pretty JSON",
 		"Vintage",
 		"X86 and X86_64 assembly"
