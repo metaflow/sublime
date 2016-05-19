@@ -6,37 +6,24 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
-		"Better CoffeeScript",
 		"BracketHighlighter",
-		"C++ Starting Kit",
 		"Case Conversion",
 		"Clang Format",
-		"CodeSearch",
-		"CTags",
-		"Drupal",
 		"Emmet",
 		"Git Conflict Resolver",
-		"GitGutter",
 		"Highlight Build Errors",
 		"Indent XML",
 		"LineEndings",
-		"NASM x86 Assembly",
 		"Open-Include",
 		"Package Control",
 		"Rust",
-		"Sass",
-		"Scheme",
-		"Search Stack Overflow",
 		"SideBarEnhancements",
 		"SnippetMaker",
-		"SublimeGDB",
 		"SublimeLinter-cpplint",
 		"SublimeREPL",
 		"SyncedSideBar",
 		"Theme - Soda",
 		"Theme - SoDaReloaded",
-		"TodoReview",
-		"Tomorrow Color Schemes",
-		"YetAnotherCodeSearch"
+		"Tomorrow Color Schemes"
 	]
 }

@@ -31,12 +31,13 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"CodeSearch",
-		"GitGutter",
+		"D",
+		"Diff",
 		"Highlight Build Errors",
 		"Pretty JSON",
 		"Vintage",
-		"X86 and X86_64 assembly"
+		"X86 and X86_64 assembly",
+		"YetAnotherCodeSearch"
 	],
 	"index_files": false,
 	"line_numbers": false,
@@ -56,6 +57,6 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
 	"wide_caret": true,
-	"word_wrap": true,
+	"word_wrap": false,
 	"wrap_width": 81
 }
