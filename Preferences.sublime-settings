@@ -25,19 +25,15 @@
 		"subpixel_antialias",
 		"no_bold"
 	],
-	"font_size": 17.0,
+	"font_size": 14.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": true,
 	"ignored_packages":
 	[
-		"D",
-		"Diff",
 		"Highlight Build Errors",
-		"Pretty JSON",
 		"Vintage",
-		"X86 and X86_64 assembly",
-		"YetAnotherCodeSearch"
+		"X86 and X86_64 assembly"
 	],
 	"index_files": false,
 	"line_numbers": false,
